@@ -1,0 +1,11 @@
+PATCH = Edit kora / Update kora
+PUT = Full Change kora (kono kihu thakuk ba na thakuk)
+GET = to get data
+DELETE = data muchu fela
+POSt = kichu akta add kora ba post kora
+
+
+PUT VS POST VS PATCH
+PUT = Create a new Resource or replace if the Resource exits
+POST = Create a new Resource
+PATCH = Partially Update an exiting resource

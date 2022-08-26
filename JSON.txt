@@ -1,0 +1,28 @@
+1.JavaScript Object Notation(JSON)
+
+2.fetch koito shudo JavaScript file er bitor cholbe na eta chalate HTML file lagbe ebong eti cholbe HTML er browser e
+
+2.1 : 
+fetch('https://jsonplaceholder.typicode.com/todos/1')
+        .then(response => response.json())
+        .then(json => console.log(json))
+
+3.API = Application Programming Interface
+4.URL = Uniform Resource Locator
+
+5. Data kkon o Array akar e & kkon o Object akare asbe
+
+(google)
+How dose internet work ?
+
+what is an API ?
+1.API stands for Application Programming Interface.
+2.An API acts like a link that allows two Application to talk to each other
+3.API is the part of the server that receives request and sends responses
+
+How does an API work?
+Apps in Browser ,Mobile Devices & loT ----- request --------(internet)-----API-----Web server -----||Database|| ---- Web server ----API ---- response --- Apps in Browser ,Mobile Devices & loT
+
+JSON palceholder.com
+
+Notation
